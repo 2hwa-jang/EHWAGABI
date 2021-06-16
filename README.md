@@ -1,5 +1,6 @@
-- 👋  Hi, I’m EHWA
-- 🐢  I’m interested in Python & Django
+I’m Ehwa.
+I’m interested in Python. 
+Now I'm studying JS. 🐢
 
 <!---
 EHWAGABI/EHWAGABI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
